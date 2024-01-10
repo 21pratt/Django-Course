@@ -49,3 +49,6 @@
 44. - Form Validation on a Post Method
 45. - Raw Update Class Based View
 46. - Raw Delete Class Based View
+
+
+These are the topics covered in the course with hands-on coding.
