@@ -51,4 +51,6 @@
 46. Raw Delete Class Based View
 
 
+
+
 - These are the topics covered in the course with hands-on coding.
